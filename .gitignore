@@ -27,6 +27,7 @@ objchk/
 
 # Visual Studio 2015 cache/options directory
 .vs/
+.vs2/
 
 # Visual Studio Code cache/options directory
 .vscode/
